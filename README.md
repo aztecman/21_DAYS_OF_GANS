@@ -20,7 +20,6 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 #### - Reread [Open Questions About Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/)
 #### - Code a simple GAN in pure Numpy
 #### - Try generating flowers
-#### - Determine a method of generating color images
 #### - Explore CGANs and infoGANs
 #### - Try out the GAN exercises from [Chapter 3 of Hands on Deep Learning for Games](https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Games/tree/master/Chapter03/Chapter_3)
 
