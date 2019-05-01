@@ -7,8 +7,11 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 
 **Link to code:** [here](https://colab.research.google.com/drive/1v1cb2iYof5KSdbm6-j381csR1OCWtZaq)
 
-**Thoughts:**
-##### My results are rather blurry, but I get the sense that they would improve with further training. I'd like to figure out how to make them color images (semi-trivial... messing with matplotlib), since the data is color. 
+**Results / Thoughts:**
+
+![cifar100 results](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/cifar100_400EPOCHS.png)
+
+##### My results are rather blurry, but I get the sense that they would improve with further training. Just before going to bed I discovered how to make them color! Well I guess sleep can wait another hour...
 
 **Future Work:**
 #### Read the rest of Jonathan Hui's articles on Medium
