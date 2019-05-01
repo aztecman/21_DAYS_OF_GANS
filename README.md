@@ -10,6 +10,7 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 **Results / Thoughts:**
 
 ![cifar100 results](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/cifar100_400EPOCHS.png)
+![cifar100 color-results](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day1_cifar100_400EPOCHS_color.png)
 
 ##### My results are rather blurry, but I get the sense that they would improve with further training. Just before going to bed I discovered how to make them color! Well I guess sleep can wait another hour...
 
