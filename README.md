@@ -15,13 +15,39 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 ##### My results are rather blurry, but I get the sense that they would improve with further training. Just before going to bed I discovered how to make them color! Well I guess sleep can wait another hour...
 
 **Future Work:**
-#### - Read the rest of Jonathan Hui's articles on Medium
-#### - Read [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
-#### - Reread [Open Questions About Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/)
-#### - Code a simple GAN in pure Numpy
-#### - Try generating flowers
-#### - Explore CGANs and infoGANs
-#### - Try out the GAN exercises from [Chapter 3 of Hands on Deep Learning for Games](https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Games/tree/master/Chapter03/Chapter_3)
+- Read the rest of Jonathan Hui's articles on Medium
+- Read [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+- Reread [Open Questions About Generative Adversarial Networks](https://distill.pub/2019/gan-open-problems/)
+- Code a simple GAN in pure Numpy
+- Try generating flowers
+- Explore CGANs and infoGANs
+- Try out the GAN exercises from [Chapter 3 of Hands on Deep Learning for Games](https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Games/tree/master/Chapter03/Chapter_3)
 
 **Resources:**
 #### 1. [GAN Tutorial - Tensorflow 2.0 Alpha](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/dcgan.ipynb)
+
+## Day 2: 
+**Today's Progress:**
+##### Reading: read the remaining articles from [Jonathan Hui's GAN series on Medium](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
+##### Coding: 
+- modified WGAN code to display the images correctly, rather than bleached out
+- tried 800 epochs (2X yesterday) for the DCGAN
+
+**Link to code:** [TODO upload ipynb]
+
+**Results / Thoughts:**
+
+[TODO: add images]
+
+##### Today's results are basically crap. On the plus side there is always tomorrow
+
+**Future Work:**
+- Explore CGANs and ACGANs
+- Generate some outer-space textures
+- Generate Insects
+- Generate Koi
+- Generate Faces
+- Generate UV maps for 3d objects
+
+**Resources:**
+#### 1. [Hands on Deep Learning for Games Ch3 - WGAN](https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Games/blob/master/Chapter03/Chapter_3/Chapter_3_3.py)
