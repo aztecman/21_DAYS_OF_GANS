@@ -24,7 +24,7 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 - Try out the GAN exercises from [Chapter 3 of Hands on Deep Learning for Games](https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Games/tree/master/Chapter03/Chapter_3)
 
 **Resources:**
-#### 1. [GAN Tutorial - Tensorflow 2.0 Alpha](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/dcgan.ipynb)
+#### [GAN Tutorial - Tensorflow 2.0 Alpha](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/r2/tutorials/generative/dcgan.ipynb)
 
 ## Day 2: 
 **Today's Progress:**
@@ -50,4 +50,36 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 - Generate UV maps for 3d objects
 
 **Resources:**
-#### 1. [Hands on Deep Learning for Games Ch3 - WGAN](https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Games/blob/master/Chapter03/Chapter_3/Chapter_3_3.py)
+#### [Hands on Deep Learning for Games Ch3 - WGAN](https://github.com/PacktPublishing/Hands-On-Deep-Learning-for-Games/blob/master/Chapter03/Chapter_3/Chapter_3_3.py)
+
+## Day 3: 
+**Today's Progress:**
+##### Coding: 
+- Managed to get pytorch installed on my Windows 10 system
+- Ran a DCGAN to generate fake celebrity faces using torch and my personal GPU
+- Ran a CGAN successfully using the colab notebook environment provided by Google
+
+**Link to code:** 
+
+[TODO upload ipynb, (or colab?)] (DCGAN)
+
+[TODO link colab notebook]
+
+**Results / Thoughts:**
+
+[TODO: add images]
+
+##### Wow, today was an incredible success. I didn't make much in the way of changes to the code, except raising the batch size for the CGAN from 32 to 64.
+
+**Future Work:**
+- Generate some magic cards - one approach would be to find faces in the cards and insert them into the celebrities dataset
+- Learn the fundamentals of Pytorch.
+- Run a CGAN in Pytorch
+- Generate animals with a CGAN
+- Generate galaxies with a CGAN
+- Generate flowers with a CGAN
+- Run an ACGAN in Pytorch (also in keras)
+
+**Resources:**
+#### [DCGAN PYTORCH TUTORIAL](https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html)
+#### [GANs in Action Chapter 8](https://colab.research.google.com/github/GANs-in-Action/gans-in-action/blob/master/chapter-8/Chapter_8_CGAN.ipynb)
