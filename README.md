@@ -37,7 +37,8 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 
 **Results / Thoughts:**
 
-[TODO: add images]
+![cifar100 wgan results](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day2_wgan_cifar100_4000EPOCHS.png)
+![cifar100 wgan results improved](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day2_wgan_cifar100_4000EPOCHS_color_adjusted.png)
 
 ##### Today's results are basically crap. On the plus side there is always tomorrow
 
