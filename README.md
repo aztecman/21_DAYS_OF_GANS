@@ -97,10 +97,10 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 
 [TODO upload images]
 
-##### While I would hesitate to call them realistic, today's results are as good as I could reasonably  hope to achieve. It was peculiar to watch the training, as I would not expect to see mode collapse between different classes, as I observed. I'm curious if this would manifest similarly in an ACGAN.
+##### While I would hesitate to call them realistic, today's results are as good as I could reasonably hope to achieve. It was peculiar to watch the training, as I would not expect to see mode collapse between different classes, as I observed. I'm curious if this would manifest similarly in an ACGAN.
 
 **Future Work:**
 
 **Resources:**
-#### [Blogpost by Utkarsh Desai](https://medium.com/@utk.is.here/training-a-conditional-dc-gan-on-cifar-10-fce88395d610)
+#### [Training a Conditional DC-GAN on CIFAR-10 by Utkarsh Desai](https://medium.com/@utk.is.here/training-a-conditional-dc-gan-on-cifar-10-fce88395d610)
 #### [Code for blogpost](https://colab.research.google.com/github/utkd/gans/blob/master/cifar10cgan.ipynb)
