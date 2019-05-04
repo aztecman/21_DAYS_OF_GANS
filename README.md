@@ -62,9 +62,7 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 
 **Link to code:** 
 
-[TODO upload ipynb, (or colab?)] (DCGAN)
-
-[TODO link colab notebook]
+(see 'Resources' below)
 
 **Results / Thoughts:**
 
