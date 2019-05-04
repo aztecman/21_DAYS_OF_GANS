@@ -33,7 +33,7 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 - modified WGAN code to display the images correctly, rather than bleached out
 - tried 800 epochs (2X yesterday) for the DCGAN
 
-**Link to code:** [TODO upload ipynb]
+**Link to code:** [here](https://colab.research.google.com/drive/1fMJKhZy788SMWKCdqemCNCXEC6qaVJ_u)
 
 **Results / Thoughts:**
 
