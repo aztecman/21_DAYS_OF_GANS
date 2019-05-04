@@ -95,8 +95,8 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 
 **Results / Thoughts:**
 
-[results A](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day4_A.png)
-[results B](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day4_B.png)
+![results A](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day4_A.png)
+![results B](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day4_B.png)
 
 ##### While I would hesitate to call them realistic, today's results are as good as I could reasonably hope to achieve. It was peculiar to watch the training, as I would not expect to see mode collapse between different classes, as I observed. I'm curious if this would manifest similarly in an ACGAN.
 
