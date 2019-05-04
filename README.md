@@ -95,11 +95,14 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 
 **Results / Thoughts:**
 
-[TODO upload images]
+[results A](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day4_A.png)
+[results B](https://raw.githubusercontent.com/aztecman/21_DAYS_OF_GANS/master/day4_B.png)
 
 ##### While I would hesitate to call them realistic, today's results are as good as I could reasonably hope to achieve. It was peculiar to watch the training, as I would not expect to see mode collapse between different classes, as I observed. I'm curious if this would manifest similarly in an ACGAN.
 
 **Future Work:**
+- Generate textures for a 3d model using a GAN (might require a research project)
+- Generate some scifi art with a GAN
 
 **Resources:**
 #### [Training a Conditional DC-GAN on CIFAR-10 by Utkarsh Desai](https://medium.com/@utk.is.here/training-a-conditional-dc-gan-on-cifar-10-fce88395d610)
