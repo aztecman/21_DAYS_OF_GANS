@@ -107,3 +107,30 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 **Resources:**
 #### [Training a Conditional DC-GAN on CIFAR-10 by Utkarsh Desai](https://medium.com/@utk.is.here/training-a-conditional-dc-gan-on-cifar-10-fce88395d610)
 #### [Code for blogpost](https://colab.research.google.com/github/utkd/gans/blob/master/cifar10cgan.ipynb)
+
+## Day 5:
+**Today's Progress:**
+##### Coding
+- Tried to run a cycleGAN and completely failed
+- Loaded up some pretrained GANs on tensorflow hub
+
+**Link to code:** 
+
+(see 'Resources' below)
+
+**Results / Thoughts:**
+
+[TODO: upload results]
+
+##### I rediscovered the [Galaxy Zoo Data set](https://data.galaxyzoo.org/) today. Other than that, nothing spectacular occured.
+
+**Future Work:**
+- Perform Super-resolution with a GAN
+- Practice breaking the structure of [Lucid/misc/GL](https://github.com/tensorflow/lucid/tree/master/lucid/misc/gl) in order to tease appart how to go about projecting from 2d onto a 3d object's texture-map.
+- Migrate the high-grade DCGAN from tensorflow 2.0 backward to prior version (so it works on my Windows pc).
+- Find a version of Pix2Pix that will run on my Windows PC.
+- Learn to save checkpoints and resume from them in keras/tensorflow as well as pytorch.
+- 
+**Resources:**
+#### [Compare GAN modules (with tf hub)](https://colab.research.google.com/github/google/compare_gan/blob/v2/compare_gan/src/tfhub_models.ipynb)
+
