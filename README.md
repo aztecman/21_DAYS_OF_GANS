@@ -130,7 +130,10 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 - Migrate the high-grade DCGAN from tensorflow 2.0 backward to prior version (so it works on my Windows pc).
 - Find a version of Pix2Pix that will run on my Windows PC.
 - Learn to save checkpoints and resume from them in keras/tensorflow as well as pytorch.
-- 
+- Learn to interpolate (presumably by manipulating the noise fed to the generator)
+- Explore disentangled representations
+- Explore Patch-GAN
+
 **Resources:**
 #### [Compare GAN modules (with tf hub)](https://colab.research.google.com/github/google/compare_gan/blob/v2/compare_gan/src/tfhub_models.ipynb)
 
