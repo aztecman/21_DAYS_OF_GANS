@@ -137,3 +137,22 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 **Resources:**
 #### [Compare GAN modules (with tf hub)](https://colab.research.google.com/github/google/compare_gan/blob/v2/compare_gan/src/tfhub_models.ipynb)
 
+## Day 6:
+**Today's Progress:**
+##### Reading / Studying code
+- I spent some time today looking through Lucid examples on feature visualization and style transfer for 3D models. 
+
+**Results / Thoughts:**
+
+##### Although I didn't accomplish any coding today, I feel satisfied in becoming better aquainted with with texture synthesis for 3d models.
+
+**Future Work:**
+- Generate some simple 2D textures
+- Study linear algebra
+- Study OpenGL
+
+**Resources:**
+#### [Texture Synthesis on Papers with Code](https://paperswithcode.com/task/texture-synthesis)
+#### [Immersive Math: Linear Algebra](http://immersivemath.com/ila/index.html)
+#### [OpenGL Tutorial](http://www.opengl-tutorial.org/)
+
