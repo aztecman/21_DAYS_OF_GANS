@@ -156,3 +156,29 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 #### [Immersive Math: Linear Algebra](http://immersivemath.com/ila/index.html)
 #### [OpenGL Tutorial](http://www.opengl-tutorial.org/)
 
+## Day 7:
+**Today's Progress:**
+##### coding
+- Modified an ACGAN to run in colab
+
+**Link to code:** 
+
+[TODO add colab notebook]
+
+**Results / Thoughts:**
+
+[TODO add images]
+
+##### I borrowed an ACGAN example from the book Advanced Deep Learning with Keras. After a few minutes of training, it became evident that the 40,000 epochs (chosen by the author) would result in a 33 hour runtime for my notebook. Since colab notebooks run for a maximum of 12 hours at a time, I knew that I would have to decrease the number of epochs. I settled on 2500 epochs. The results are not very pleasing. Aside from that, I spent some time to familiarize myself with OpenGL.
+
+**Future Work:**
+- Work my way through the 3rd Chapter of OpenGL's tutorial
+- Begin to explore PyOpenGL
+- Study tensorflow
+- Try out Text based GANs (Text-to-Image)
+
+**Resources:**
+#### [ACGAN - Advanced Deep Learning With Keras](https://github.com/PacktPublishing/Advanced-Deep-Learning-with-Keras/blob/master/chapter5-improved-gan/acgan-mnist-5.3.1.py)
+#### [Open Gl Tutorial](http://www.opengl-tutorial.org)
+#### [Introduction to Tensorflow for AI, ML, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
+
