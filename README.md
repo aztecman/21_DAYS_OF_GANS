@@ -182,3 +182,30 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 #### [Open Gl Tutorial](http://www.opengl-tutorial.org)
 #### [Introduction to Tensorflow for AI, ML, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/)
 
+## Day 8:
+**Today's Progress:**
+##### Reading
+- I read several pieces by Connor Shorten, including one that I found very interesting, on Self-Supervised GANs.
+##### Video Learning
+- I watched 18 short videos talking about the math behind GANs and other NN architectures
+##### Coding
+- Tried out 'Neural Painter'
+
+**Link to code:** 
+
+[see 'Resources']
+
+**Results / Thoughts:**
+
+[TODO add images]
+
+##### I'm very pleased with these results. After several hours of training I was rewarded with a video of the training session. If you check out the author's github (see 'Resources' below), they have quite a few colab notebooks explaining different aspects of their approach. I find this effort toward reproducability very inspiring.
+
+**Future Work:**
+- explore the various aspects of Neural Painters in depth
+- explore Self Supervised GANs in greater depth
+
+**Resources:**
+#### [Neural Painters on Github](https://github.com/reiinakano/neural-painters)
+#### [Connor Shorten on Medium](https://medium.com/@connorshorten300)
+#### [Henry AI Labs on Youtube](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
