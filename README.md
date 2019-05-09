@@ -209,3 +209,32 @@ This repo is a journal of my progress experimenting with Generative Adversarial 
 #### [Neural Painters on Github](https://github.com/reiinakano/neural-painters)
 #### [Connor Shorten on Medium](https://medium.com/@connorshorten300)
 #### [Henry AI Labs on Youtube](https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw/videos)
+
+## Day 9:
+**Today's Progress:**
+##### Reading
+- I read a few more articles by Connor Shorten.
+##### Writing
+- I began a rough draft of an article themed on top GANs of 2019
+##### Coding
+- Tried out Gene Kogan's pretrained bigGAN demo
+- I managed to get through the 2nd and 3rd chapters of OpenGL basics tutorial (in c++)
+
+**Link to code:** 
+
+[see 'Resources']
+
+**Results / Thoughts:**
+
+[TODO add images]
+
+##### Today's noodling was quite a bit of fun. I produced far more images and videos than I will bother to share here. It was interesting to see how similar sets of images were produced based on a common noise vector. 
+
+**Future Work:**
+- read the bigGAN paper
+- read the progressive GAN paper
+- read the stack-GAN paper
+
+**Resources:**
+#### [Gene Kogan's pretrained GAN Demo](https://colab.research.google.com/drive/1rqDwIddy0eunhhV8yrznG4SNiB5XWFJJ)
+
